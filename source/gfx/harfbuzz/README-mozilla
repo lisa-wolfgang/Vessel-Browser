@@ -1,0 +1,17 @@
+This directory contains the HarfBuzz source from the upstream repo:
+https://github.com/harfbuzz/harfbuzz
+
+Current version: 2.8.0 [commit 03538e872a0610a65fad692b33d3646f387cf578]
+
+UPDATING:
+
+Our in-tree copy of HarfBuzz does not depend on any generated files from the
+upstream build system. Therefore, it should be sufficient to simply overwrite
+the in-tree files one the updated ones from upstream to perform updates.
+
+To simplify this, the in-tree copy can be updated by running
+  sh update.sh
+from within the gfx/harfbuzz directory.
+
+If the collection of source files changes, manual updates to moz.build may be
+needed as we don't use the upstream makefiles.
