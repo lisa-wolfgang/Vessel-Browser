@@ -54,7 +54,7 @@ policy-DisableFeedbackCommands = Disable commands to send feedback from the Help
 policy-DisableFirefoxAccounts = Disable { -fxaccount-brand-name } based services, including Sync.
 
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Disable the Firefox Screenshots feature.
+policy-DisableFirefoxScreenshots = Disable the Vessel Screenshots feature.
 
 policy-DisableFirefoxStudies = Prevent { -brand-short-name } from running studies.
 
@@ -109,7 +109,7 @@ policy-ExtensionSettings = Manage all aspects of extension installation.
 
 policy-ExtensionUpdate = Enable or disable automatic extension updates.
 
-policy-FirefoxHome = Configure Firefox Home.
+policy-FirefoxHome = Configure Vessel Home.
 
 policy-FlashPlugin = Allow or deny usage of the Flash plugin.
 

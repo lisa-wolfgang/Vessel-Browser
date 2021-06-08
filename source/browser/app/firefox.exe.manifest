@@ -3,10 +3,10 @@
 <assemblyIdentity
         version="1.0.0.0"
         processorArchitecture="*"
-        name="Firefox"
+        name="Vessel"
         type="win32"
 />
-<description>Firefox</description>
+<description>A fast, feature-filled, privacy-enhancing browser</description>
 <dependency>
         <dependentAssembly>
                 <assemblyIdentity
